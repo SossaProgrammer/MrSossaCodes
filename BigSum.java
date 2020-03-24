@@ -1,5 +1,6 @@
 /*
     Sum big Numbers with arrays
+    Mejorable
 */
 
 
